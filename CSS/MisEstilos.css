@@ -46,6 +46,13 @@ h2{
     text-align: center;
 }
 
+#Presentacion{
+    background-color: rgb(255, 250, 250);
+    border:solid 1px black;
+    border-radius: 10px;
+    margin: 10px;
+}
+
 h4{
     text-align: center;
 }
