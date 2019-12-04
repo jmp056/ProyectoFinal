@@ -1,0 +1,2 @@
+300 px de ancho 
+280 px de largo

@@ -3,20 +3,41 @@
     width: 900px;
 }
 
-#LogoPrincipal{
+#LogoPrincipal{ /*Logo principal de la pagina*/
     border-right: solid 1px black;
     border-left: solid 1px black;
+    height: 230px;
 }
-.MenuPrincipal{
-    background-color: rgb(241, 240, 240);
+
+.PrincipalExterno{ /*Menu principal de la pagina*/
+    background-color: rgb(236, 232, 232);
     border-right: solid 1px black;
     border-left: solid 1px black;
     border-block-end: solid 1px black;
     border-radius: 0px 0px 5px 5px;
-    font-size: 30px;
+    font-size: 20px;
 }
 
-li{
-    margin: 20px;
-    float: right;
+li{ /*Margen para dividir el menu*/
+    margin-left: 50px;
+}
+
+.Cuerpo{
+    background-color: rgb(236, 232, 232);
+    border: solid 1px black;
+    border-radius: 5px;
+}
+
+.ImagenPrincipal{
+    width:100%;
+}
+
+.BotonPrincipal{
+    margin: 0px 0px 10px 0px;
+}
+
+footer{
+    background-color: rgb(236, 232, 232);
+    border-top: solid 1px black;
+    text-align: right;
 }
