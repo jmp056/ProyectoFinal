@@ -41,3 +41,7 @@ footer{
     border-top: solid 1px black;
     text-align: right;
 }
+
+h2{
+    text-align: center;
+}
